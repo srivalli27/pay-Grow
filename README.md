@@ -1,4 +1,5 @@
 # Invisible Saving App 💰✨
+*SAVE WITHOUT KNOWING - GROW WITHOUT TRYING*
 
 A modern UPI-style app (inspired by *Google Pay* & *PhonePe) with an **Invisible Saving* feature that helps users save money effortlessly while performing their regular transactions.
 
